@@ -1,4 +1,4 @@
-/*   Star Pattern-9
+/*     Pattern-9
         1234321
          12321
           121

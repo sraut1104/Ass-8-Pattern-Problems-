@@ -1,4 +1,4 @@
-/*         Patter-7
+/*         Patter-13
         ABCDEFGFEDCBA
         ABCDEF FEDCBA
         ABCDE   EDCBA

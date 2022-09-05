@@ -1,4 +1,4 @@
-/*   Star Pattern-2
+/*   Star Pattern-4
         *****
          ****
           ***

@@ -1,4 +1,4 @@
-/*   Star Pattern-5
+/*   Star Pattern-11
             1
            121
           12321
